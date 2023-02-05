@@ -1,0 +1,18 @@
+svg {
+  margin-right: 2%;
+  fill: #b65763;
+  margin-top: 2%;
+}
+
+svg:hover {
+  fill: #363a53;
+}
+
+h2 {
+  color: #8a8d56;
+  font-weight: bolder;
+}
+
+p {
+  text-align: justify;
+}
